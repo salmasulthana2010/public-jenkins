@@ -1,0 +1,9 @@
+Welcome to Jenkins Pipeline Demo!
+
+This is a test file used in the Deploy stage.
+
+- Repository: public-jenkins
+- Maintainer: Salma Sulthana
+- Date: $(date)
+
+Thanks for visiting!
